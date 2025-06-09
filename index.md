@@ -1,3 +1,5 @@
----
-title: Welcome to my blog!
----
+Daily Learning
+
+Morning Planning
+
+Review
